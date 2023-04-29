@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "session_db",
+    "charset": "utf8mb4"
+}

@@ -1,0 +1,20 @@
+{
+    "host": {
+        "private": "private.humfg.tyo2.database-hosting.conoha.io",
+        "public": "public.humfg.tyo2.database-hosting.conoha.io"
+    },
+    "user": "humfg_order_sys_v2",
+    "password": "J#8tU%Uj&",
+    "database": "humfg_order_sys_v2",
+    "charset": "utf8",
+    "session": {
+        "host": {
+            "private": "private.humfg.tyo2.database-hosting.conoha.io",
+            "public": "public.humfg.tyo2.database-hosting.conoha.io"
+        },
+        "user": "humfg_order_sys_v2",
+        "password": "J#8tU%Uj&",
+        "database": "humfg_long_session",
+        "charset": "utf8"
+    }
+}
